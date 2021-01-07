@@ -1,7 +1,7 @@
 # Copyright 2018-2020 Alvaro Bartolome, alvarobartt @ GitHub
 # See LICENSE for details.
 
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 import pytz
 
 import json
